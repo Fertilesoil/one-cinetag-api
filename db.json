@@ -1,6 +1,7 @@
 {
-         "videos": [
-                  {
+    "videos": 
+    [
+        {
             "id": 1,
             "titulo": "O labirinto do Logcat",
             "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img2.png",
@@ -24,5 +25,5 @@
             "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
             "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
         }
-         ]
+    ]
 }
